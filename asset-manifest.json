@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/fashion-history/static/css/main.da3ece88.css",
-    "main.js": "/fashion-history/static/js/main.db1e5258.js",
+    "main.js": "/fashion-history/static/js/main.2f86e4ea.js",
+    "static/js/787.17e7ea75.chunk.js": "/fashion-history/static/js/787.17e7ea75.chunk.js",
     "static/media/1920-F-3.jpg": "/fashion-history/static/media/1920-F-3.1e5906fc3b70fe47a8f6.jpg",
     "static/media/Home_picture.png": "/fashion-history/static/media/Home_picture.77d20365a96adbfd1c63.png",
     "static/media/1750-F-4.jpg": "/fashion-history/static/media/1750-F-4.5e4f163dacc6c408a466.jpg",
@@ -107,10 +108,11 @@
     "static/media/1820-M-1-1.jpg": "/fashion-history/static/media/1820-M-1-1.8341f8f57e814ec254f3.jpg",
     "index.html": "/fashion-history/index.html",
     "main.da3ece88.css.map": "/fashion-history/static/css/main.da3ece88.css.map",
-    "main.db1e5258.js.map": "/fashion-history/static/js/main.db1e5258.js.map"
+    "main.2f86e4ea.js.map": "/fashion-history/static/js/main.2f86e4ea.js.map",
+    "787.17e7ea75.chunk.js.map": "/fashion-history/static/js/787.17e7ea75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da3ece88.css",
-    "static/js/main.db1e5258.js"
+    "static/js/main.2f86e4ea.js"
   ]
 }
