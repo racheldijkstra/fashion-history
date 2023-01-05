@@ -1,0 +1,40 @@
+.div{
+    height: 100%;
+    width: 100%
+}
+
+.MySVG{
+    height: 85%;
+    stroke: #665D4D;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+.Location{
+    fill: #D2C9C0;
+    stroke: #665D4D;
+    stroke-width: 1;
+    cursor: pointer;
+}
+.Location:hover, .Location:focus{
+    fill: #665D4D;
+}
+.Location:clicked{
+    fill: #665D4D;
+}
+.NoHover{
+    fill: #D2C9C0;
+    stroke: #665D4D;
+    stroke-width: 1;
+}
+.Clicked{
+    fill: #665D4D;
+    stroke: #665D4D;
+    stroke-width: 1;
+}
+
+.Water{
+    fill: #f3f3fb;
+    stroke: #665D4D;
+    stroke-width: 1;
+}
