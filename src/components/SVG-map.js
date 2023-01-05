@@ -12,11 +12,11 @@ const SVGMap18 = () => {
   }
 
   const handleAsiaClick = () => {
-    window.location.assign('/Asia-1750')
+    window.location.assign("https://racheldijkstra.github.io/Asia-1750")
   }
 
   const handleAmericaClick = () => {
-    window.location.assign('/America-1750')
+    window.location.assign("https://racheldijkstra.github.io/America-1750")
   }
 
   return (
